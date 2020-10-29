@@ -5,6 +5,6 @@ console.log("Remembering any memories");
 console.log("Cambio");
 //Objeto --Construido a partir de la clase. Instancia de clase
 
-//Actualizado desde remoto
-console.log("Cambio desde remoto");
+console.log("Cambiado desde local");
+>>>>>>> Stashed changes
 
