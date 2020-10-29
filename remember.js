@@ -6,5 +6,5 @@ console.log("Cambio");
 //Objeto --Construido a partir de la clase. Instancia de clase
 
 console.log("Cambiado desde local");
->>>>>>> Stashed changes
+
 
